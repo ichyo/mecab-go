@@ -1,10 +1,10 @@
 # mecab-go
 go wrapper for mecab
 
-# Requirements
+## Requirements
 MeCab (>= 0.99)
 
-# Example
+## Example
 ```go
 package main
 
