@@ -9,8 +9,8 @@ MeCab (>= 0.99)
 package main
 
 import (
-	"../."
 	"fmt"
+	"github.com/ichyo/mecab-go"
 )
 
 func main() {
